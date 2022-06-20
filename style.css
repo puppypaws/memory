@@ -9,6 +9,8 @@ body {
     text-align: center;
     font-family: "Raleway", sans-serif;
     letter-spacing: 1px;
+    background-color: #333333;
+    margin: auto;
 }
 
 h1 {
@@ -28,4 +30,13 @@ p {
     font-family: "Droid Serif", serif;
     line-height: 26px;
     font-size: 18px;
+}
+
+footer {
+    background-color: #c0dec5;
+    margin: 64px;
+}
+
+#concentration {
+    color: rgba(0, 0, 200, .3);
 }
